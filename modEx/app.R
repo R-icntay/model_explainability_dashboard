@@ -2,7 +2,7 @@
 library(shiny)
 library(DT)
 library(cvms)
-library(ggimage)
+#library(ggimage)
 library(tidyverse)
 library(tidymodels)
 library(textrecipes)
@@ -11,6 +11,7 @@ library(patchwork)
 library(DALEXtra)
 library(tidytext)
 library(shinycssloaders)
+library(SHAPforxgboost)
 
 
 
